@@ -28,6 +28,10 @@ Create a payment API interface to handle interaction with the UI
 - Validate the API request and think about security of payment and coupon validation
 - Handle expiry of coupon codes. Think about edge cases.
 
+General tasks
+- Setup an easy to understand README or documentation to understand how to use your application
+- Setup an automated flow via Docker / Docker-Compose to start both backend and frontend
+
 ### Good to have
 - Proper handling of error message and no results screens.
 - Clean UI similar to [this](https://raw.githubusercontent.com/dubizzle-onboarding/gistapi/main/design_inspiration.png).
